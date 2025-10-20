@@ -1,6 +1,3 @@
-Jestem początkującym programistą-samoukiem uczącym się z książek i kursów, który chce aby jego projekty na GitHubie zainteresowały potencjalnego pracodawcę. Napisz mi plik readme na github do poniższego programu. Zadanie pochodzi z polskiego tłumaczenia wydania drugiego książki "Automate the boring stuff with Python" autorstwa Al Sweigert i jego publikacja na moim github ma pokazać potencjalnemu pracodawcy iż potrafię napisać dany program i rozumiem jego działanie. Nazwa projektu to: "Wykrywacz silnego hasła", a działanie programu polega na utworzeniu funkcji używającej wyrażeń regularnych, w celu zapewnienia, iż ciąg tekstowy przedstawia silne hasło. Silne hasło składa się z przynajmniej ośmiu znaków, zawiera zarówno małe, jak i duże litery oraz choć jedną cyfrę.
-
-
 Project name: Strong Password Detector
 
 This is a simple Python script that checks whether a given password is strong, based on specific criteria. It was developed as part of my learning journey through the book "Automate the Boring Stuff with Python" (Polish edition, 2017) by Albert Sweigart.
@@ -57,4 +54,6 @@ cd strong_password_detector
 
 3. Run the script:
 
+```
 python3 strong_password_detector.py
+```
