@@ -1,4 +1,4 @@
-Project name: Strong Password Detector
+## Project name: Strong Password Detector
 
 This is a simple Python script that checks whether a given password is strong, based on specific criteria. It was developed as part of my learning journey through the book "Automate the Boring Stuff with Python" (Polish edition, 2017) by Albert Sweigart.
 
